@@ -1,0 +1,3 @@
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Journal\Journal\bin\Release\MonthlyCalander.exe.config
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Journal\Journal\obj\Release\MonthlyCalander.exe
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Journal\Journal\obj\Release\MonthlyCalander.pdb

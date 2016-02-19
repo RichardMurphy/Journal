@@ -1,0 +1,14 @@
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\bin\Debug\MonthlyCalander.exe.config
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\bin\Debug\MonthlyCalander.exe
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\bin\Debug\MonthlyCalander.pdb
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\obj\Debug\MonthlyCalander.csprojResolveAssemblyReference.cache
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\obj\Debug\MonthlyCalander.Form1.resources
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\obj\Debug\MonthlyCalander.Properties.Resources.resources
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\obj\Debug\MonthlyCalander.csproj.GenerateResource.Cache
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\obj\Debug\MonthlyCalander.exe
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\obj\Debug\MonthlyCalander.pdb
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rick\OneDrive\C-Sharp\Practice\Calanders\MonthlyCalander\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Journal\Journal\bin\Debug\MonthlyCalander.exe.config
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Journal\Journal\obj\Debug\MonthlyCalander.exe
+C:\Users\Rick\OneDrive\C-Sharp\Projects\Journal\Journal\obj\Debug\MonthlyCalander.pdb
